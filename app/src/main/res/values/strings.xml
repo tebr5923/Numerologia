@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Numerologia</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="middlename">Отчество</string>
+    <string name="date">Дата рождения</string>
+    <string name="buttonCalculate">Посчитать</string>
+    <string name="buttonNumberOfFate">число судьбы</string>
+    <string name="buttonNumberOfSoul">число души</string>
+    <string name="buttonNumberOfPersonality">число личности</string>
+    <string name="buttonNumberOfLifePath">число жизненного пути</string>
+    <string name="buttonBreak">очистить</string>
+</resources>
